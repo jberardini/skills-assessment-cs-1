@@ -1,0 +1,55 @@
+Runtime
+
+Question 1:
+a.  The number of crackers in the box
+
+Question 2:
+a.  O(1)
+b.  O(log n)
+c.  O(n)
+d.  O(n log n)
+e.  O(n^2)
+f.  O(2^n)
+
+Stacks and queues
+
+Question 1:
+a.  Stack
+b.  Queue
+c.  Stack
+
+Question 2:
+1.  Sorting through an inbox
+2.  Determining the next customer to be served at the DMV
+
+Question 3:
+1.  Washing dishes
+2.  Assuming a plane is loaded back to front, unloading an airplane
+
+Linked lists
+
+Question 1:
+Nodes: 3 rectangles containing, respectively, ‘apple’ and the arrow linking the apple node to the berry node, ‘berry’ and the arrow linking the berry node to the cherry node, and ‘cherry’ and arrow linking the cherry node to none
+
+Data: The strings ‘apple’, ‘berry’, and ‘cherry’
+
+Head: Pointing to the apple node
+
+Tail: There is no defined tail in this diagram. If a tail were created, it would point to the cherry node.
+
+Question 2:
+In addition to the next attribute tracked by a singly-linked list, each node in a doubly-linked list contains a ‘prev’ attribute that tracks the node that came before it.
+
+Question 3:
+If we are tracking the tail element, we don’t need to go through each element in the linked list to determine if it is at the end of the list. Instead, we can jump to the tail and append a new node.
+
+Trees:
+
+Question 1:
+food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burrito
+
+Question 2:
+food, Mexican, enchiladas, tacos, burrito, Indian, saag, tikka masala, Italian, pizza, Sicilian, New York-style, Chicago-style
+
+Question 3:
+In a binary search tree, each node has two or fewer leaves.  The leaf to the left of the node is less than the node, and the leaf to the right of the node is greater than the node. Other trees do not have this type of strict organization.
